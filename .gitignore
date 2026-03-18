@@ -1,0 +1,22 @@
+# Node/npm
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Base de datos
+*.db
+*.sqlite3
+database.db
+
+# OS
+.DS_Store
+Thumbs.db
